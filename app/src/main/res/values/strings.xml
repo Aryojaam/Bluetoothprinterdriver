@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Bluetooth printer driver</string>
+    <string name="found_bluetooth_devices">found Bluetooth devices:</string>
+    <string name="pair_bluetooth">Pair Bluetooth</string>
 </resources>
